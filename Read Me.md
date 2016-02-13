@@ -20,8 +20,8 @@ A collection of links which I have found extremely useful or to which I come bac
 - [Arrays and Lists in SQL Server](http://www.sommarskog.se/arrays-in-sql.html)
  Several methods on how to pass an array of values from a client to SQL Server, and performance data about the methods. Two versions are available, one for SQL 2005 and one for SQL 2000 and earlier.
 
-- [Implementing Error Handling with Stored Procedures and Error Handling in SQL Server – a Background)
- Two articles on error handling in SQL Server.
+- [Error and Transaction Handling in SQL Server](http://www.sommarskog.se/error_handling/Part1.html)
+ Article about error and transaction handling in SQL Server
 
 ### Powershell
 - [placeholder](/Powershell/Placeholder.md)
