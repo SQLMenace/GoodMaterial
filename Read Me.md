@@ -6,12 +6,18 @@ A collection of links which I have found extremely useful or to which I come bac
 
 ### Categories
 
+* [Interviewing](#Interviewing)
 * [SQL Server](#SQL Server)
 * [Powershell](#Powershell)
 * [R](#R)
 
 
 ---
+
+
+### Interviewing
+- [The Only Interview Question That Matters](http://www.inc.com/lou-adler/best-interview-question-ever.html)
+  This single question provides the depth and breadth of insight needed to reach a fast, unanimous Hire/Don't Hire decision.
 
 ### SQL Server
 - [The curse and blessings of dynamic SQL](http://www.sommarskog.se/dynamic_sql.html)
