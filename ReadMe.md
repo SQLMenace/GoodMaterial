@@ -31,7 +31,8 @@ A collection of links which I have found extremely useful or to which I come bac
  Article about error and transaction handling in SQL Server
 
 ### Powershell
-- [placeholder](/Powershell/Placeholder.md)
+- [Practical PowerShell for SQL Server Developers and DBAs – Part 1](https://www.simple-talk.com/sql/database-administration/practical-powershell-for-sql-server-developers-and-dbas-%E2%80%93-part-1/)
+There is a lot of confusion amongst DBAs about using PowerShell due to existence the deprecated SQLPS mini-shell of SSMS and the newer SQLPS module. In a two-part article and wallchart,  Michael explains how to install it, what it is, and some of the excellent things it has to offer.
 
 ### R
 - [R Programming Language - Introduction to R for C# Programmers](https://msdn.microsoft.com/en-us/magazine/mt238409.aspx?f=255&MSPPError=-2147217396)
