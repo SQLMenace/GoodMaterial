@@ -10,6 +10,7 @@ A collection of links which I have found extremely useful or to which I come bac
 * [SQL Server](#SQL Server)
 * [Powershell](#Powershell)
 * [R](#R)
+* [Reading](#Interviewing)
 
 
 ---
@@ -34,3 +35,9 @@ A collection of links which I have found extremely useful or to which I come bac
 
 ### R
 - [R Programming Language - Introduction to R for C# Programmers](https://msdn.microsoft.com/en-us/magazine/mt238409.aspx?f=255&MSPPError=-2147217396)
+Introduction to R for C# Programmers
+
+
+### Reading
+- [29 Books That Will Enrich Your Inner Literati](http://time.com/3753024/books-enrich-you/?xid=IFT-Trending)
+ For anyone who wants to attain the vaunted title of “being well-read,” it’s more about breadth than depth
