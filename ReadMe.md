@@ -7,7 +7,7 @@ A collection of links which I have found extremely useful or to which I come bac
 ### Categories
 
 * [Interviewing](#Interviewing)
-* [SQL Server](#SQL Server)
+* [SQL Server](#SQLServer)
 * [Powershell](#Powershell)
 * [R](#R)
 * [Reading](#Interviewing)
@@ -20,7 +20,7 @@ A collection of links which I have found extremely useful or to which I come bac
 - [The Only Interview Question That Matters](http://www.inc.com/lou-adler/best-interview-question-ever.html)
   This single question provides the depth and breadth of insight needed to reach a fast, unanimous Hire/Don't Hire decision.
 
-### SQL Server
+### SQLServer
 - [The curse and blessings of dynamic SQL](http://www.sommarskog.se/dynamic_sql.html)
   How you use dynamic SQL, when you should – and when you should not.
 
